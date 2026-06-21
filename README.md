@@ -5,6 +5,8 @@ highly personalized, fact-checked outreach email** — grounded in your real
 resume and GitHub. Built with plain Python (no workflow tools), runs locally or
 deploys free to the web.
 
+**🔗 Live demo:** https://ai-outreach-agent-abcd.streamlit.app/ (access password required — ask me)
+
 ---
 
 ## What it does (4 stages)
