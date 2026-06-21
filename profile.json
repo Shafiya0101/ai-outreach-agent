@@ -1,0 +1,14 @@
+{
+  "name": "Your Name",
+  "headline": "Final-year Computer Science student, ML & backend focus",
+  "summary": "CS student who builds end-to-end ML and data products; comfortable from data pipeline to deployed API.",
+  "skills": ["Python", "PyTorch", "FastAPI", "Docker", "SQL", "LLM/agent systems"],
+  "experience": [
+    "Built a retrieval-augmented document Q&A system used by a 30-person team",
+    "Interned on a data team; shipped an ETL pipeline cutting report time by 40%",
+    "Open-source contributor to a small NLP library"
+  ],
+  "goals": "An internship where I can own real ML/backend features and learn from a strong engineering culture.",
+  "target_role": "Machine Learning / Software Engineering internship",
+  "contact_email": "you@example.com"
+}
